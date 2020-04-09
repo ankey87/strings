@@ -1,7 +1,6 @@
 // Exercise One
 // Check to see if the string is empty.  Return true or false.
 function isEmptyString(string) {
-    let result; 
     if(string.length > 0){
         result = false
     }else {
